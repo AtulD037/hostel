@@ -65,7 +65,7 @@ html{
     top: 0;
     right: 0;
     background-color: black;
-    background:url(/static/images/hostel1.PNG) ;
+    background:url(/hostel/static/images/hostel1.PNG) ;
     background-size: cover;
  height: 900px;
     width: 100%;
